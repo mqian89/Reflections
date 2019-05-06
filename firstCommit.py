@@ -1,0 +1,1 @@
+This is a test file for my first commit into a Github repository. I have set up a public online repository on Github. Now, I am trying to bring it all together. 
